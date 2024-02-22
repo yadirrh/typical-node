@@ -1,1 +1,1 @@
-# Settings to setup a full node in proxmox
+## Settings to setup a full node in proxmox
